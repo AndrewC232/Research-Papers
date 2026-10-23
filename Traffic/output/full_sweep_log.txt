@@ -1,0 +1,47 @@
+Using device: cpu
+
+--- Radius: 1 mi (3490 edges) ---
+Radius 1mi  F1: 0.7007
+
+--- Radius: 2 mi (8852 edges) ---
+Radius 2mi  F1: 0.7117
+
+--- Radius: 3 mi (16712 edges) ---
+Radius 3mi  F1: 0.7031
+
+--- Radius: 4 mi (26280 edges) ---
+Radius 4mi  F1: 0.6972
+
+--- Radius: 5 mi (37346 edges) ---
+Radius 5mi  F1: 0.6997
+
+--- Radius: 6 mi (48318 edges) ---
+Radius 6mi  F1: 0.7104
+
+--- Radius: 7 mi (57798 edges) ---
+Radius 7mi  F1: 0.6905
+
+--- Radius: 8 mi (68142 edges) ---
+Radius 8mi  F1: 0.7169
+
+--- Radius: 9 mi (78218 edges) ---
+Radius 9mi  F1: 0.6778
+
+--- Radius: 10 mi (85984 edges) ---
+Radius 10mi  F1: 0.6858
+
+--- FRESH RESULTS (1–10 mi) ---
+ Radius_Miles  Edges  F1_Score
+          1.0   3490  0.700739
+          2.0   8852  0.711660
+          3.0  16712  0.703128
+          4.0  26280  0.697210
+          5.0  37346  0.699663
+          6.0  48318  0.710401
+          7.0  57798  0.690476
+          8.0  68142  0.716860
+          9.0  78218  0.677781
+         10.0  85984  0.685841
+
+Saved st_gnn_integer_curve.png
+ALL DONE!
